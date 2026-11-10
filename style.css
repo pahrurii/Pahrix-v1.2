@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    font-family: "Redaction 35", sans-serif;
+}
+
+header {
+    background-image: url(./images/autumn.gif);
+}
+
+#logo {
+    color: rgb(226, 173, 135);    
+}
+
+.nav a {
+    color: rgb(253, 229, 212);
+    text-decoration: none;
+}
+
+.main-images {
+    max-width: 90%;
+    width: 1000px;
+}
